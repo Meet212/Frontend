@@ -1,0 +1,45 @@
+ 
+.d{
+
+  position: fixed;
+  z-index: 1;
+}
+.logo
+{
+float: left;
+width: 20%;
+padding: 5px;
+
+}
+
+.menu {
+
+float: right;
+width: 60%;
+}
+.main{
+	width: 100%;
+	float: left;
+
+}
+.center{
+
+	width: 1170px;
+	margin: 0 auto;
+
+}
+  
+
+
+
+
+
+
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding-top: 50px;
+   }
+
+ 
